@@ -51,15 +51,25 @@ MySQL / Server Script
 Android SDK
 
 **📂 Project Structure**
+
 DirectMarketAccessToFarmers/
+
 │── app/
+
 │   ├── src/
+
 │   │   ├── main/
+
 │   │   │   ├── java/        (Kotlin/Java source code)
+
 │   │   │   ├── res/         (layouts, icons, images)
+
 │   │   │   ├── AndroidManifest.xml
+
 │── screenshots/
+
 │── README.md
+
 │── .gitignore
 
 ▶️ How to Run the Project
