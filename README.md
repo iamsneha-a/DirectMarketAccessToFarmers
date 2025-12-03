@@ -1,105 +1,134 @@
-**🌾 Mobile App for Direct Market Access to Farmers**
+Great — I see the exact text you pasted, and YES, I know why it still doesn't look like proper GitHub formatting.
+
+### 👉 The issue is:
+
+You used **bold text** instead of **markdown headings**, and GitHub does not create spacing or structure with just `**bold**`.
+That’s why it looks cramped and not like the clean format I showed.
+
+---
+
+# ✅ Here is the FIXED VERSION
+
+This version uses:
+
+✔ `#` for headings
+✔ Proper spacing
+✔ Bullet points formatted
+✔ Code blocks fenced
+✔ Will render EXACTLY like my sample in GitHub
+
+👉 **Copy–paste THIS EXACT VERSION into your README.**
+
+---
+
+# 🌾 Mobile App for Direct Market Access to Farmers
 
 A digital platform connecting farmers directly with consumers, ensuring fair pricing, transparency, and seamless transactions.
 
-**📌 Overview**
+---
+
+## 📌 Overview
 
 This project provides a mobile application that bridges the gap between farmers and consumers, enabling direct buying and selling of agricultural produce. It eliminates middlemen, supports secure UPI-like payments, provides scheme awareness, and includes modules for Users, Farmers, and Admins.
 
-**🚀 Features**
+---
 
-**👤 User Features**
+## 🚀 Features
 
-Sign up & login
+### 👤 User Features
 
-Browse products from nearby farmers
+* Sign up & login
+* Browse products from nearby farmers
+* Add items to cart & place orders
+* Make payments via UPI-like gateway
+* View order history
 
-Add items to cart & place orders
+### 👨‍🌾 Farmer Features
 
-Make payments via UPI-like gateway
+* Manage inventory (add/update products)
+* View pending, accepted & completed orders
+* Receive notifications
+* View government schemes uploaded by Admin
 
-View order history
+### 🛠 Admin Features
 
-**👨‍🌾 Farmer Features**
+* Onboard trusted farmers
+* Upload agricultural schemes
+* View farmer requests
+* Manage platform ecosystem
 
-Manage inventory (add/update products)
+---
 
-View pending, accepted & completed orders
+## 🛠️ Tech Stack
 
-Receive notifications
+* Kotlin / Java
+* Android Studio
+* MySQL / Server Script
+* Android SDK
 
-View government schemes uploaded by Admin
+---
 
-**🛠 Admin Features**
+## 📂 Project Structure
 
-Onboard trusted farmers
-
-Upload agricultural schemes
-
-View farmer requests
-
-Manage platform ecosystem
-
-**🛠️ Tech Stack**
-
-Kotlin / Java
-
-Android Studio
-
-MySQL / Server Script
-
-Android SDK
-
-**📂 Project Structure**
-
+```
 DirectMarketAccessToFarmers/
-
 │── app/
-
 │   ├── src/
-
 │   │   ├── main/
-
 │   │   │   ├── java/        (Kotlin/Java source code)
-
 │   │   │   ├── res/         (layouts, icons, images)
-
 │   │   │   ├── AndroidManifest.xml
-
 │── screenshots/
-
 │── README.md
-
 │── .gitignore
+```
 
-▶️ How to Run the Project
-1️⃣ Clone the repository
+---
+
+## ▶️ How to Run the Project
+
+### 1️⃣ Clone the repository
+
+```
 git clone https://github.com/iamsneha-a/DirectMarketAccessToFarmers.git
+```
 
-2️⃣ Open the project in Android Studio
-3️⃣ Install required SDKs
-4️⃣ Configure database (if used)
-5️⃣ Build & run on emulator or Android device
-📸 Screenshots
+### 2️⃣ Open the project in Android Studio
 
+### 3️⃣ Install required SDKs
+
+### 4️⃣ Configure database (if used)
+
+### 5️⃣ Build & run on emulator or Android device
+
+---
+
+## 📸 Screenshots
+
+```
 ![Login Page](screenshots/login.png)
 ![Dashboard](screenshots/dashboard.png)
+```
 
-**🌱 Future Enhancements**
+---
 
-Integration of vehicle renting
+## 🌱 Future Enhancements
 
-Fertilizer management
+* Integration of vehicle renting
+* Fertilizer management
+* Land renting
+* IoT-based smart farming
+* Crop recommendation system
 
-Land renting
+---
 
-IoT-based smart farming
+## 👩‍💻 Contributors
 
-Crop recommendation system
+* Sneha A
+* Dhanya M U
+* Vennapusa Moksha Sravani
+* Pragathi M S
 
-**👩‍💻 Contributors**
-Sneha A
-Dhanya M U
-Vennapusa Moksha Sravani
-Pragathi M S
+---
+
 
