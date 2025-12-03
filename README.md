@@ -1,25 +1,3 @@
-Great — I see the exact text you pasted, and YES, I know why it still doesn't look like proper GitHub formatting.
-
-### 👉 The issue is:
-
-You used **bold text** instead of **markdown headings**, and GitHub does not create spacing or structure with just `**bold**`.
-That’s why it looks cramped and not like the clean format I showed.
-
----
-
-# ✅ Here is the FIXED VERSION
-
-This version uses:
-
-✔ `#` for headings
-✔ Proper spacing
-✔ Bullet points formatted
-✔ Code blocks fenced
-✔ Will render EXACTLY like my sample in GitHub
-
-👉 **Copy–paste THIS EXACT VERSION into your README.**
-
----
 
 # 🌾 Mobile App for Direct Market Access to Farmers
 
