@@ -89,6 +89,12 @@ git clone https://github.com/iamsneha-a/DirectMarketAccessToFarmers.git
 ```
 
 ---
+## ⬅️ Download Section (Google Drive link here)
+
+Since the project ZIP file is large, it is hosted on Google Drive.
+
+👉 **Download here:**  
+https://drive.google.com/file/d/1Bzh_MoE0B_wjYWD-c7l4pH9MPZtRabGe/view?usp=drive_link
 
 ## 🌱 Future Enhancements
 
